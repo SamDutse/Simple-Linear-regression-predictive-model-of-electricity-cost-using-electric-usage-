@@ -1,0 +1,1 @@
+# Simple-Linear-regression-predictive-model-of-electricity-cost-using-electric-usage-
